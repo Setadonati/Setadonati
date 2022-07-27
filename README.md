@@ -1,7 +1,8 @@
 
 <h1>
-  WELCOME TO MY PROFILE
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Welcome to DR SETA profile
 </h1>
 
 <div id="badges"> 
