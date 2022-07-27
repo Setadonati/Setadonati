@@ -1,22 +1,22 @@
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-Welcome to DR SETA profile
+Welcome to my profile
 </h1>
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 I am a Medical Doctor :man_health_worker: and Full Stack Developer from Tanzania :tanzania:
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+ :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+ :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/dr-seta-donati-479337116)
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/dr-seta-donati-479337116)
 
 ### Connect Me on:
 <div id="badges"> 
