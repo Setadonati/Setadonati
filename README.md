@@ -4,19 +4,6 @@
 Welcome to DR SETA profile
 </h1>
 
-<div id="badges"> 
-<a href=" https://www.linkedin.com/in/dr-seta-donati-479337116"> 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-<a href=" https://youtube.com/channel/UCJ6cZDbTt8D0Xj6p5zBq4XQ  "> 
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/> 
-</a>
-<a href=" https://twitter.com/Setadonati?t=Aerdv5imY_gTEH8f6nteLg&s=09">
- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> 
-</a> 
-</div>
-
-
 ---
 
 ### :man_technologist: About Me :
@@ -31,14 +18,24 @@ I am a Medical Doctor :man_health_worker: and Full Stack Developer from Tanzania
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)]( https://www.linkedin.com/in/dr-seta-donati-479337116)
 
+### Connect Me on:
+<div id="badges"> 
+<a href=" https://www.linkedin.com/in/dr-seta-donati-479337116"> 
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+<a href=" https://youtube.com/channel/UCJ6cZDbTt8D0Xj6p5zBq4XQ  "> 
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/> 
+</a>
+<a href=" https://twitter.com/Setadonati?t=Aerdv5imY_gTEH8f6nteLg&s=09">
+ <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> 
+</a> 
+</div>
 
---- 
+---
 
 
 ### :hammer_and_wrench: Languages and Tools :
-
 <div>
- 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
@@ -58,7 +55,6 @@ I am a Medical Doctor :man_health_worker: and Full Stack Developer from Tanzania
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
 </div>
-
 
 ---
 
